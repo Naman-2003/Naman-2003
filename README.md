@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p align="center">I am Naman Singh, a passionate **Flutter and Native Mobile Developer** with experience in building cross-platform and native Android applications. My expertise includes Flutter, Dart, Java, Kotlin, Firebase, REST APIs, and state management. I love creating intuitive and performant mobile apps that solve real-world problems.</p>
+<p align="center">I am Naman Singh, a passionate Flutter and Native Mobile Developer with experience in building cross-platform and native Android applications. My expertise includes Flutter, Dart, Java, Kotlin, Firebase, REST APIs, and state management. I love creating intuitive and performant mobile apps that solve real-world problems.</p>
 
 ### <p align="center">My Technical Skills</p>
 
