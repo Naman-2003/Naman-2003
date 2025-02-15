@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaman-2003%2FNaman-2003&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/namansingh2003/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://x.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="YourTwitterHandle" ></a>
 </div>
